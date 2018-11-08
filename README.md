@@ -1,8 +1,9 @@
 # Google Drive 연결 방법
 
 1. 프로그램 내 **'추가'** 버튼 클릭, Google Drive 선택 후 **'확인'**
+![googledrive](https://user-images.githubusercontent.com/44858625/48180214-f798fa00-e365-11e8-90ff-d7e8081a8e1c.PNG)
 
-![GoogleDrive 추가](C:\Users\JaeKyung Lee\Desktop\RaiDriveDocs\GoogleDrive\GoogleDrive추가.PNG)
+![Google](/GoogleDrive/GoogleDriveID입력.PNG)
 
 옵션 설명 :
 
