@@ -5,7 +5,7 @@
 
 ![googledrive 2](https://user-images.githubusercontent.com/44858625/48237103-86f6e980-e408-11e8-9703-dec06254ba10.PNG)
 
-
+<br />
 
 2. Google Drive 연결을 위해 로그인
 
@@ -18,9 +18,9 @@
 
 ![googledrive 2](https://user-images.githubusercontent.com/44858625/48237401-c540d880-e409-11e8-9e17-a1b5a8d60591.PNG)
 
+<br />
 
 
+4. **드라이브 추가 완료**
 
-4. 드라이브 추가 완료
-
-![googledrivemount](https://user-images.githubusercontent.com/44858625/48236499-d7207c80-e405-11e8-805f-de023471a0be.PNG)
+![googledrivemount](https://user-images.githubusercontent.com/44858625/48238753-7a29c400-e40f-11e8-8bae-856bd6ef8185.PNG)
