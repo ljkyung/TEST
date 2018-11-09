@@ -3,22 +3,24 @@
 1. 프로그램 내 **'추가'** 버튼 클릭, Google Drive 선택 후 **'확인'**
 
 
-![googledrive](https://user-images.githubusercontent.com/44858625/48180214-f798fa00-e365-11e8-90ff-d7e8081a8e1c.PNG)
+![googledrive 2](https://user-images.githubusercontent.com/44858625/48237103-86f6e980-e408-11e8-9703-dec06254ba10.PNG)
 
 
 
 2. Google Drive 연결을 위해 로그인
 
-![googledriveid](https://user-images.githubusercontent.com/44858625/48181310-52345500-e36a-11e8-8d1e-b556cce60b11.PNG)
+![googledriveid](https://user-images.githubusercontent.com/44858625/48237385-bbb77080-e409-11e8-981d-0b3e30004a22.PNG)
 
 <br />
 
 
 3. 계정, 비밀번호 입력 후, **권한 부여 허용**
 
-![googledrive](https://user-images.githubusercontent.com/44858625/48181330-61b39e00-e36a-11e8-91f5-dcb0e6dfb9d8.PNG)
+![googledrive 2](https://user-images.githubusercontent.com/44858625/48237401-c540d880-e409-11e8-9e17-a1b5a8d60591.PNG)
 
 
 
 
-3. 
+4. 드라이브 추가 완료
+
+![googledrivemount](https://user-images.githubusercontent.com/44858625/48236499-d7207c80-e405-11e8-805f-de023471a0be.PNG)
