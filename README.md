@@ -20,13 +20,15 @@
 
 ![GoogleDrive추가](/GoogleDrive%EC%B6%94%EA%B0%802.PNG?raw=true)
 
-옵션
+**Google Drive 추가 옵션**
 
-프로그램이 시작될 때 자동연결 | 항목 체크 시, 프로그램이 시작될 때 로그인 없이 자동연결 됩니다.
+>프로그램이 시작될 때 자동연결 - 프로그램이 시작될 때 로그인 없이 자동연결 됩니다.
 
-연결할 때마다 로그인 | Google Drive에 연결 시도 할 때 마다 로그인을 요청합니다.
+>연결할 때마다 로그인 - Google Drive에 연결 시도 할 때 마다 로그인을 요청합니다.
 
-프록시 | 
+>프록시 - 프록시 서버 설정은 메뉴바의 설정란에서 할수 있습니다.
+
+>읽기전용 - 파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다.
 
 <br />
 
@@ -58,4 +60,13 @@
   * 연결된 드라이브에 아이콘을 **클릭**하면 브라우저를 이용해 Google Drive를 사용할 수 있습니다.
   
 ![GoogleDriveMountSuccess](/MountSuccess2.png?raw=true)
+
+---
+### RaiDrive의 Google 계정 액세스 권한 삭제 방법
+
+1. [내 계정에 액세스 할 수 있는 앱](https://myaccount.google.com/permissions "Google myaccount")에 접속합니다.
+2. 목록 중 **RaiDrive**를 찾아 선택하고 **액세스 권한 삭제** 버튼을 클릭합니다.
+
+* 액세스 권한 삭제 후 RaiDrive로 Google Drive 연결 시도 시 **ErrorRemoteDriveAuto(103)** 에러가 발생합니다.
+  * **다시 로그인** 하여 액세스 권한 할당 시 정상적으로 Google Drive **사용 가능**합니다.
 
