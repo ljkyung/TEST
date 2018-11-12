@@ -1,26 +1,32 @@
 # <img class="gb_Wa gb_Ke" alt="" aria-hidden="true" src="https://www.gstatic.com/images/branding/product/1x/drive_48dp.png" srcset="https://www.gstatic.com/images/branding/product/2x/drive_48dp.png 2x ,https://www.gstatic.com/images/branding/product/1x/drive_48dp.png 1x" style="width:40px;height:40px">Google Drive 연결 방법
 
-1. 프로그램 내 **'추가'** 버튼 클릭, Google Drive 선택 후 **'확인'**
+1. 프로그램 내 **'추가'** 버튼을 클릭합니다.
 
 
-![googledrive 2](https://user-images.githubusercontent.com/44858625/48237103-86f6e980-e408-11e8-9703-dec06254ba10.PNG)
-
-<br />
-
-2. Google Drive 연결을 위해 로그인
-
-![googledriveid](https://user-images.githubusercontent.com/44858625/48237385-bbb77080-e409-11e8-981d-0b3e30004a22.PNG)
+![RaiDrive 초기화면](/%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4.PNG)
 
 <br />
 
+2.  Google Drive 선택 후 **'확인'** 버튼을 클릭합니다.
 
-3. 계정, 비밀번호 입력 후, **권한 부여 허용**
+![GoogleDrive추가](/GoogleDrive%EC%B6%94%EA%B0%802.PNG?raw=true)
 
-![googledrive 2](https://user-images.githubusercontent.com/44858625/48237401-c540d880-e409-11e8-9e17-a1b5a8d60591.PNG)
+<br />
+
+3. Google Drive 연결을 위해 아이디와 비밀번호를 입력합니다.
+
+![googledriveid](/GoogleDriveID%EC%9E%85%EB%A0%A5.PNG?raw=true)
 
 <br />
 
 
-4. **드라이브 추가 완료**
+4. 계정, 비밀번호 입력 후, **허용** 버튼을 클릭합니다.
 
-![googledrivemount](https://user-images.githubusercontent.com/44858625/48238753-7a29c400-e40f-11e8-8bae-856bd6ef8185.PNG)
+![googledrive 2](/GoogleDrive%EA%B6%8C%ED%95%9C%EC%9A%94%EC%B2%AD2.PNG?raw=true)
+
+<br />
+
+
+5. **"드라이브 추가"** 가 완료됩니다.
+
+![googledrivemount](/GoogleDriveMount.PNG?raw=true)
