@@ -11,9 +11,6 @@
 
 1. 메뉴바 오른쪽의 **추가** 버튼을 클릭합니다.
 
-
-![RaiDrive 초기화면](/%EC%B4%88%EA%B8%B0%ED%99%94%EB%A9%B4.PNG?raw=true)
-
 <br />
 
 2.  Google Drive 선택 후, 드라이브 문자 및 이름 설정 한 뒤 **확인** 버튼을 클릭합니다.
@@ -34,8 +31,6 @@
 
 3. Google Drive 연결을 위해 **아이디**와 **비밀번호**를 입력합니다.
 
-![googledriveid](/GoogleDrive%EB%A1%9C%EA%B7%B8%EC%9D%B8.PNG?raw=true)
-
 <br />
 
 
@@ -45,10 +40,7 @@
 
 <br />
 
-
 5. **"드라이브 추가"** 가 완료됩니다.
-
-![googledrivemount](/GoogleDriveMount.PNG?raw=true)
 
 <br />
 
@@ -64,7 +56,7 @@
 ---
 ### RaiDrive의 Google 계정 액세스 권한 삭제 방법
 
-1. [내 계정에 액세스 할 수 있는 앱](https://myaccount.google.com/permissions "Google myaccount")에 접속합니다.
+1. [내 계정에 액세스 할 수 있는 앱](https://myaccount.google.com/permissions "Google MyAccount")에 접속합니다.
 2. 목록 중 **RaiDrive**를 찾아 선택하고 **액세스 권한 삭제** 버튼을 클릭합니다.
 
 * 액세스 권한 삭제 후 RaiDrive로 Google Drive 연결 시도 시 **ErrorRemoteDriveAuto(103)** 에러가 발생합니다.
