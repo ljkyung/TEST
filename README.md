@@ -1,5 +1,14 @@
 # <img class="gb_Wa gb_Ke" alt="" aria-hidden="true" src="https://www.gstatic.com/images/branding/product/1x/drive_48dp.png" srcset="https://www.gstatic.com/images/branding/product/2x/drive_48dp.png 2x ,https://www.gstatic.com/images/branding/product/1x/drive_48dp.png 1x" style="width:40px;height:40px">Google Drive 연결 방법
 
+
+### Google 계정 생성
+
+* Google Drive를 사용하려면 Google 계정이 필요합니다.  
+[구글 계정 생성](https://www.google.com "Google")
+
+---
+### RaiDrive에 Google Drive 추가하기
+
 1. 메뉴바 오른쪽의 **추가** 버튼을 클릭합니다.
 
 
@@ -10,6 +19,14 @@
 2.  Google Drive 선택 후, 드라이브 문자 및 이름 설정 한 뒤 **확인** 버튼을 클릭합니다.
 
 ![GoogleDrive추가](/GoogleDrive%EC%B6%94%EA%B0%802.PNG?raw=true)
+
+옵션
+
+프로그램이 시작될 때 자동연결 | 항목 체크 시, 프로그램이 시작될 때 로그인 없이 자동연결 됩니다.
+
+연결할 때마다 로그인 | Google Drive에 연결 시도 할 때 마다 로그인을 요청합니다.
+
+프록시 | 
 
 <br />
 
