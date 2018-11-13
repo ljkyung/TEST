@@ -50,7 +50,7 @@ Google Drive 추가 옵션 :
 
 ![GoogleDriveViewExplorer](/GoogleDrive%ED%83%90%EC%83%89%EA%B8%B0.PNG?raw=true)
 ---
-### RaiDrive 인터페이스 
+### RaiDrive 기능
   
 ![GoogleDriveMountSuccess](/MountSuccess3.png?raw=true)
 
