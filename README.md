@@ -24,7 +24,8 @@ Google Drive 추가 옵션 :
 
 > 연결할 때마다 로그인 - Google Drive에 연결 시도 할 때 마다 로그인을 요청합니다.
 
-> 프록시 - 프록시 서버 설정은 메뉴바의 설정란에서 할 수 있습니다.
+> 프록시 - 보안과 인터넷 속도의 향상을 위해 개인 및 회사, 사설 프록시 서버를 사용 할 수 있습니다. 
+          (프록시 서버 설정은 메뉴바의 설정란에서 할 수 있습니다.)
 
 > 읽기전용 - 파일을 읽기는 가능하지만 편집은 불가능 한 상태로 드라이브 목록을 표시합니다.
 ~~~
@@ -49,7 +50,7 @@ Google Drive 추가 옵션 :
 
 ![GoogleDriveViewExplorer](/GoogleDrive%ED%83%90%EC%83%89%EA%B8%B0.PNG?raw=true)
 ---
-
+### RaiDrive 인터페이스 
   * 연결된 드라이브에 아이콘을 **클릭**하면 브라우저를 이용해 Google Drive를 사용할 수 있습니다.
   
 ![GoogleDriveMountSuccess](/MountSuccess2.png?raw=true)
@@ -61,5 +62,5 @@ Google Drive 추가 옵션 :
 2. 목록 중 **RaiDrive**를 찾아 선택하고 **액세스 권한 삭제** 버튼을 클릭합니다.
 
 * 액세스 권한 삭제 후 RaiDrive로 Google Drive 연결 시도 시 **ErrorRemoteDriveAuto(103)** 에러가 발생합니다.
-  * **다시 로그인** 하여 액세스 권한 할당 시 정상적으로 Google Drive **사용 가능**합니다.
+  * **다시 로그인** 하여 액세스 권한 할당 시 정상적으로 RaiDrive를 통한 Google Drive **사용 가능**합니다.
 
