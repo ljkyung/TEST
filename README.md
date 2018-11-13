@@ -51,9 +51,21 @@ Google Drive 추가 옵션 :
 ![GoogleDriveViewExplorer](/GoogleDrive%ED%83%90%EC%83%89%EA%B8%B0.PNG?raw=true)
 ---
 ### RaiDrive 인터페이스 
-  * 연결된 드라이브에 아이콘을 **클릭**하면 브라우저를 이용해 Google Drive를 사용할 수 있습니다.
   
-![GoogleDriveMountSuccess](/MountSuccess2.png?raw=true)
+![GoogleDriveMountSuccess](/MountSuccess3.png?raw=true)
+
+>(1) : 스토리지를 **추가** 할 수 있습니다.
+
+>(2) : 언어, 캐시폴더 지정, 업데이트 확인 등을 **설정** 할 수 있습니다.
+
+>(3) : 드라이브를 **연결/해제** 합니다.
+
+>(4) : 드라이브 설정을 **편집**합니다.
+
+>(5) : 등록한 드라이브를 **제거**합니다.
+
+>(6) : 연결된 드라이브에 아이콘을 **클릭**하면 브라우저를 이용해 Google Drive를 사용할 수 있습니다.
+
 
 ---
 ### RaiDrive의 Google 계정 액세스 권한 삭제 방법
