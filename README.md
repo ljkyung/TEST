@@ -1,4 +1,4 @@
-# <img class="gb_Wa gb_Ke" alt="" aria-hidden="true" src="https://www.gstatic.com/images/branding/product/1x/drive_48dp.png" srcset="https://www.gstatic.com/images/branding/product/2x/drive_48dp.png 2x ,https://www.gstatic.com/images/branding/product/1x/drive_48dp.png 1x" style="width:40px;height:40px">Google Drive 연결 방법
+# <img class="gb_Wa gb_Ke" alt="" aria-hidden="true" src="https://www.gstatic.com/images/branding/product/1x/drive_48dp.png" srcset="https://www.gstatic.com/images/branding/product/2x/drive_48dp.png 2x ,https://www.gstatic.com/images/branding/product/1x/drive_48dp.png 1x" style="width:40px;height:40px"> Google Drive 연결 방법
 
 
 ### Google 계정 생성
@@ -34,7 +34,9 @@ Google Drive 추가 옵션 :
 3. Google Drive 연결을 위해 **아이디**와 **비밀번호**를 입력합니다. testing...ㅈㄷㄱㅈㄷㄱㅈㄷㄱㅈㄷㄱ
 ㅈㄱㄷㅈㄱㅈㄷㄱㅈㄷㄱ
 
-테스트 중.... pull tasking add commit push
+>테스트 중.... pull tasking add commit push editer TEST
+
+>VScode TEST
 
 fhzjfdptj todtjdgks vkdlfdl dnjsrur wjwkdthdp wkf wjrdydehlsms rjtdmf ghkrdlsgkf tn dlTtmqslek.
 <br />
