@@ -31,7 +31,7 @@ Google Drive 추가 옵션 :
 ~~~
 <br />
 
-3. Google Drive 연결을 위해 **아이디**와 **비밀번호**를 입력합니다.
+3. Google Drive 연결을 위해 **아이디**와 **비밀번호**를 입력합니다. testing...
 
 <br />
 
