@@ -34,7 +34,7 @@ Google Drive 추가 옵션 :
 3. Google Drive 연결을 위해 **아이디**와 **비밀번호**를 입력합니다. testing...ㅈㄷㄱㅈㄷㄱㅈㄷㄱㅈㄷㄱ
 ㅈㄱㄷㅈㄱㅈㄷㄱㅈㄷㄱ
 
-테스트 중....
+테스트 중.... pull tasking add commit push
 <br />
 
 
